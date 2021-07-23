@@ -2,6 +2,7 @@
 这个小程序主要使用的是screw进行开发：
 所用工具：
     --SpringBoot2.4.1
+    --screw1.0.5
     --lombok
     --Hikari连接池
     --Mysql8.0
